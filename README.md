@@ -1,4 +1,4 @@
-# PokemonApp\n\nFollow README from canvas instructions.
+# PokemonApp Follow README from canvas instructions.
 
 # PokemonApp
 
